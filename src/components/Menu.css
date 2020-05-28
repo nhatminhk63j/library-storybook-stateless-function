@@ -1,0 +1,8 @@
+.NavbarBrand {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+nav.navbar {
+    color: #fff !important;
+}
